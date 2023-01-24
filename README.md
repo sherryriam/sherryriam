@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sherryriam
 - 👀 I’m interested in sharing my frontend developer skill on github
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on github team.
+- 💞️ I’m looking to collaborate to the world.
 - 📫 How to reach me ...
 
 <!---
