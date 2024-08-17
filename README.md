@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sherryriam
-- 👀 I’m interested in sharing my frontend developer skill on github
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate with github team.
+- 👋 Hi, I’m Miriam
+- 👀 I’m interested in sharing my frontend developer skills on github
+- 🌱 I have HTML, CSS and JavaScript(React) skills
+- 💞️ I’m looking to collaborate with everyone who needs my skills.
 - 📫 How to reach me ...
 
 <!---
